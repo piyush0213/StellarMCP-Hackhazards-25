@@ -1,0 +1,24 @@
+{
+  "name": "stellar-mcp",
+  "version": "1.0.0",
+  "description": "Stellar MPC Server with DeFi data integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "fetch-prices": "node fetch-stellar-prices.js",
+    "fetch-volume": "node fetch-stellar-volume.js",
+    "fetch-tvl": "node fetch-stellar-tvl.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "redis": "^4.7.0",
+    "vercel": "^41.6.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "typescript": "^5.8.2"
+  }
+}

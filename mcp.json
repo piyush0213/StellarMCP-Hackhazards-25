@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "server-name": {
+      "url": "https://agent.mcpify.ai/sse?server=adc7aab6-0073-47f7-b42a-c7cd0c431ab3"
+    }
+  }
+}
