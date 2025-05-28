@@ -1,6 +1,6 @@
 # Stellar MCP Server
 
-A real-time data server for Stellar blockchain metrics, designed to integrate with AI assistants and provide live DeFi analytics.
+A real-time data server for Stellar blockchain metrics, designed for seamless integration with AI assistants and analytics tools, enabling live and accurate DeFi insights from the Stellar ecosystem.
 
 ## Overview
 
